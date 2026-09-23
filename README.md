@@ -39,7 +39,11 @@ Follow standard installation steps for `HTML` to set up the project locally:
 
 ## 💻 Usage
 
-Run the project using standard execution commands for `HTML`. Ensure all environment variables and configurations are set prior to execution.
+```bash
+pip install -r requirements.txt   # only typing_extensions
+python -m pytest tests/           # run the test suite
+python -m src.main                # run the guard behavior-tree simulation (from repo root)
+```
 
 ## 🤝 Contributing
 
