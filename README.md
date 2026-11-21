@@ -1,5 +1,7 @@
 # Game Ai Behavior Tree Unity Logic
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Python behavior-tree engine for game AI & NPC logic — Unity-inspired, zero bloat.
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
